@@ -24,9 +24,9 @@ Sure, here's the **fully completed version** of your bio form — tailored for G
   My journey in ICT, how I came back to studies after hardship, what motivates me, and how I’m planning my career path toward joining **NASA, Google, or SpaceX**.
 
 * 📫 How to reach me:
-  Email: **[sourovict.cstu@gmail.com](mailto:sourovict.cstu@gmail.com)**
-  Facebook: [facebook.com/sourov.roy.official](https://facebook.com/sourov.roy.official) *(update if needed)*
-  GitHub: [github.com/sourovroy](https://github.com/sourovroy) *(if available)*
+  Email: sspproy222@gmail.com
+  Facebook: https://www.facebook.com/shrisourovroy
+  GitHub: https://github.com/Shrisourovroy
 
 * 😄 Pronouns:
   He/Him
