@@ -75,33 +75,8 @@
 
 ✅ Competitive Programming
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrisourovroy&show_icons=true&theme=tokyonight" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrisourovroy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrisourovroy&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrisourovroy&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
