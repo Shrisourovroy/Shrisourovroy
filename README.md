@@ -81,11 +81,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Shrisourovroy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/shrisourovroy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.facebook.com/shrisourovroy">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+  <a href="https://wa.me/8801305119669">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
 
