@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=ICT+Student+at+CSTU;Java+Developer;C+%7C+C%2B%2B+Programmer;Data+Structures+%26+Algorithms+Enthusiast;Future+Software+Engineer" />
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@
 
 💻 Passionate about Programming, Problem Solving, and Software Development.
 
----
+
 
 ## 🛠️ Tech Stack & Skills
 
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-00C853?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 📚 Skills Overview
 
@@ -57,7 +57,7 @@
 </tr>
 </table>
 
----
+
 
 ## 🔥 What I Do
 
@@ -92,7 +92,7 @@
 </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrisourovroy&label=Profile+Views&color=blue&style=for-the-badge" />
@@ -101,4 +101,4 @@
 <p align="center">
   <b>🚀 Code • Learn • Build • Repeat</b>
 </p>
-```
+
